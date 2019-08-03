@@ -1,4 +1,4 @@
-var endDate = new Date("Apr 25, 2020 12:00:00").getTime();
+var endDate = new Date("Apr 25, 2020 00:00:00").getTime();
 
 var timer = setInterval(function() {
 
